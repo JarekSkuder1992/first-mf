@@ -1,17 +1,11 @@
 <template>
-  <div id="app">
+  <div class="app">
     <h1>FIRST MICRO FE</h1>
   </div>
 </template>
 
-<script>
-export default {
-  name: 'app'
-}
-</script>
-
 <style>
-#app {
+.app {
   font-family: 'Avenir', Helvetica, Arial, sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
